@@ -1,0 +1,12 @@
+{
+  "referenceDate": "2026-10-17",
+  "customerCount": 20,
+  "orderCount": 50,
+  "statusCounts": {
+    "new": 10,
+    "processing": 10,
+    "shipped": 10,
+    "completed": 10,
+    "cancelled": 10
+  }
+}
